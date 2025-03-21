@@ -1,2 +1,2 @@
-# Machine-Learning-Demystified
-An introductory guide for beginners that explores the fundamental concepts of Machine Learning through accessible explanations and practical examples, breaking down technical topics for students and enthusiasts alike.
+# Machine Learning & Deep Learning Demystified 
+An introductory guide designed for beginners, offering clear explanations and practical examples to demystify the core concepts of Machine Learning and Deep Learning.
